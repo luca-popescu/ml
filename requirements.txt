@@ -1,0 +1,10 @@
+pandas
+numpy
+phik
+seaborn
+matplotlib
+ydata_profiling
+sklearn
+pickle
+streamlit
+joblib
